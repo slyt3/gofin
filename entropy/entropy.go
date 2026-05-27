@@ -10,7 +10,7 @@ import (
 	"math"
 	"strings"
 
-	"github.com/slyt/gofin/fingerprint"
+	"github.com/slyt3/gofin/fingerprint"
 )
 
 // Report is what Measure returns.

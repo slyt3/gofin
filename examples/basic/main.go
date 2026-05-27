@@ -16,9 +16,9 @@ import (
 	"io"
 	"os"
 
-	"github.com/slyt/gofin"
-	"github.com/slyt/gofin/entropy"
-	"github.com/slyt/gofin/fingerprint"
+	"github.com/slyt3/gofin"
+	"github.com/slyt3/gofin/entropy"
+	"github.com/slyt3/gofin/fingerprint"
 )
 
 func main() {

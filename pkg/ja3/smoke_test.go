@@ -3,7 +3,7 @@ package ja3_test
 import (
 	"testing"
 
-	"github.com/slyt/gofin/pkg/ja3"
+	"github.com/slyt3/gofin/pkg/ja3"
 )
 
 // TestJA3StringRoundTrip verifies ParseJA3String → BuildString is stable.

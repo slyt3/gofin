@@ -3,7 +3,7 @@ package explain
 import (
 	"fmt"
 
-	"github.com/slyt/gofin/risk"
+	"github.com/slyt3/gofin/risk"
 )
 
 // Report is the structured form of an explanation, for when you want to

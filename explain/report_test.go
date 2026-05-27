@@ -4,8 +4,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/slyt/gofin/explain"
-	"github.com/slyt/gofin/risk"
+	"github.com/slyt3/gofin/explain"
+	"github.com/slyt3/gofin/risk"
 )
 
 func TestGenerate(t *testing.T) {

@@ -1,4 +1,4 @@
-module github.com/slyt/gofin
+module github.com/slyt3/gofin
 
 go 1.22.4
 

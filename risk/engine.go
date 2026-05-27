@@ -1,7 +1,7 @@
 package risk
 
 import (
-	"github.com/slyt/gofin/fingerprint"
+	"github.com/slyt3/gofin/fingerprint"
 )
 
 // Rule is what a custom detection rule looks like.

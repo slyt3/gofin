@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/slyt/gofin/fingerprint"
+	"github.com/slyt3/gofin/fingerprint"
 )
 
 // geoMismatchRule fires when the browser's IANA timezone doesn't match

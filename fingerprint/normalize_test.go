@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/slyt/gofin/fingerprint"
+	"github.com/slyt3/gofin/fingerprint"
 )
 
 func TestNormalize(t *testing.T) {

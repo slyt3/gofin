@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/slyt/gofin/fingerprint"
-	"github.com/slyt/gofin/risk"
+	"github.com/slyt3/gofin/fingerprint"
+	"github.com/slyt3/gofin/risk"
 )
 
 func TestEngine_Run_NoRules(t *testing.T) {

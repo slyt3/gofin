@@ -20,9 +20,9 @@
 package gofin
 
 import (
-	"github.com/slyt/gofin/explain"
-	"github.com/slyt/gofin/fingerprint"
-	"github.com/slyt/gofin/risk"
+	"github.com/slyt3/gofin/explain"
+	"github.com/slyt3/gofin/fingerprint"
+	"github.com/slyt3/gofin/risk"
 )
 
 // Analyze scores a pre-parsed Fingerprint and returns a fully populated

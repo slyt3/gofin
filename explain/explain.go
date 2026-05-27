@@ -8,7 +8,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/slyt/gofin/risk"
+	"github.com/slyt3/gofin/risk"
 )
 
 // Explain generates a human-readable analysis report from a scored Result.

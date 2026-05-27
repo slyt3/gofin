@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/slyt/gofin/fingerprint"
+	"github.com/slyt3/gofin/fingerprint"
 )
 
 // ruleFunc evaluates a single detection condition against a Fingerprint and

@@ -1,6 +1,6 @@
 package risk
 
-import "github.com/slyt/gofin/fingerprint"
+import "github.com/slyt3/gofin/fingerprint"
 
 // Evaluate runs all the detection rules against fp and returns a Result.
 // Explanation is intentionally left empty here — call explain.Explain on

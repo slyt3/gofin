@@ -5,7 +5,7 @@ import (
 	"math"
 	"strings"
 
-	"github.com/slyt/gofin/fingerprint"
+	"github.com/slyt3/gofin/fingerprint"
 )
 
 // refPopSize is the reference browser population for uniqueness estimates.
